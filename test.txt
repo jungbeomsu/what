@@ -1,1 +1,5 @@
-console.log('test 라는 함수를 작성하고 emotion.js OR styled-components AND What are you nothing')
+테스트라는 파일을 내입맛에 맞게
+이런 깃 의 색깔로
+브랜치는 마스터이다
+
+-issue2 라는 user 가 Commit 를 수정
