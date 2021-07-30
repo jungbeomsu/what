@@ -9,3 +9,4 @@ pull: 원경 저장소의 내용을 가져와서 갱신하기
  git commit --ammend --author="작성자명 <email주소>"
 
  cosnt name = "더수정 해라"
+ 시른댕
